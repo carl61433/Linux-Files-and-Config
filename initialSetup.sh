@@ -2,6 +2,7 @@
 
 #Pull my aliases
 sudo curl -o ~/.bash_aliases https://raw.githubusercontent.com/carl61433/Linux-Files-and-Config/refs/heads/main/.bash_aliases
+source ~/.bash_aliases
 
 # Add Docker's official GPG key:
 sudo apt update
